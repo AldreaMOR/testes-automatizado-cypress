@@ -1,0 +1,20 @@
+{
+  "name": "testes_automatizado_cypress",
+  "version": "1.0.0",
+  "description": "Curso de teste automatizado com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Aldrea MOR",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^4.10.0"
+  }
+}
